@@ -1,0 +1,16 @@
+.black-bg {
+        background-size: cover;
+        background-position: center;
+        background-color: black;
+    }
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1541188903310-8e078edbcaf6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.tab { margin-left: 40px; }
